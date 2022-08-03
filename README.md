@@ -81,8 +81,7 @@ With Auto_ARIMA find the p,d,q values with the following code
 
 *plt.show()*
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (83)](https://user-images.githubusercontent.com/78019202/182508235-c9bffdf1-6035-4e84-8164-3ebb3f1d31aa.png)
 ## Building the modle
 
 Build the model with following code-  
@@ -95,10 +94,9 @@ Build the model with following code-
 *model_fit = model.fit()*  
 *print(model_fit.summary())*
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 *Autocorrelation Plot*
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (84)](https://user-images.githubusercontent.com/78019202/182508290-cf795a56-1abe-41b5-a659-4ae2b1cb5881.png)
 
 ## Testing
 
