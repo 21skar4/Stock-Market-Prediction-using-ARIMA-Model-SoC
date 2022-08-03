@@ -4,24 +4,24 @@ This project is to predict stock price using ARIMA model with help of Yahoo Fina
 
 ## Install and import the required libraries
 
-pip install pmdarima
-import pandas as pd
-import numpy as np
-from matplotlib import pyplot as plt
-from matplotlib import pyplot
-import seaborn as sns
-import math
-from math import sqrt
-from sklearn.metrics import mean_squared_error,mean_absolute_error
-from statsmodels.tsa.stattools import adfuller
-from statsmodels.tsa.arima_model import ARIMA
-from statsmodels.tsa.arima.model import ARIMA
-from pmdarima.arima import auto_arima
-from pandas import DataFrame
-from pandas import datetime
-from statsmodels.graphics.tsaplots import plot_acf
-from statsmodels.graphics.tsaplots import plot_pacf
-%matplotlib inline
+*pip install pmdarima*  
+*import pandas as pd*  
+*import numpy as np*  
+*from matplotlib import pyplot as plt*  
+*from matplotlib import pyplot*  
+*import seaborn as sns*  
+*import math*  
+*from math import sqrt*  
+*from sklearn.metrics import mean_squared_error,mean_absolute_error*  
+*from statsmodels.tsa.stattools import adfuller*  
+*from statsmodels.tsa.arima_model import ARIMA*  
+*from statsmodels.tsa.arima.model import ARIMA*  
+*from pmdarima.arima import auto_arima*  
+*from pandas import DataFrame*  
+*from pandas import datetime*  
+*from statsmodels.graphics.tsaplots import plot_acf*  
+*from statsmodels.graphics.tsaplots import plot_pacf*  
+*%matplotlib inline*  
 
 
 ## Loading the data
