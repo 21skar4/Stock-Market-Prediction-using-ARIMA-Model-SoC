@@ -41,13 +41,13 @@ For ARIMA modle to work it needs to be *stationary*.So we will be performing *St
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (77)](https://user-images.githubusercontent.com/78019202/182507778-53bfa15b-307f-493f-a65e-4e5bfc8ebe75.png)
 
 
 
 **Partial Autocorrelation Function**
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (78)](https://user-images.githubusercontent.com/78019202/182507825-92d07122-fba7-4458-acf3-7554b08a2d89.png)
 
 **Dickey Fuller Test**
 
@@ -59,14 +59,14 @@ For ARIMA modle to work it needs to be *stationary*.So we will be performing *St
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (81)](https://user-images.githubusercontent.com/78019202/182508043-b8ffb108-50e2-468a-917e-3c5f3514a750.png)
 
 **Re-test with Dickey Fuller Test**
 
 **"Close First Difference"**  
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (82)](https://user-images.githubusercontent.com/78019202/182508172-e8bd8c28-3bb4-44d8-9192-352c7156f1d8.png)
 
 
 ## Optimum p , d and q for ARIMA   
@@ -102,11 +102,11 @@ Build the model with following code-
 
 ## Testing
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ## Performance Test
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (85)](https://user-images.githubusercontent.com/78019202/182508343-0ac6de09-695a-4aa6-b9dc-f920a43cf830.png)
 
 ## Real vs Predicted Price
 ![Screenshot (86)](https://user-images.githubusercontent.com/78019202/182508401-02ab29e3-d73b-4d78-9c21-97c973dde725.png)
