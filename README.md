@@ -109,4 +109,4 @@ Build the model with following code-
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Real vs Predicted Price
-https://github.com/21skar4/Stock-Market-Prediction-using-ARIMA-Model-SoC/issues/12#issue-1326584796
+![Screenshot (86)](https://user-images.githubusercontent.com/78019202/182508401-02ab29e3-d73b-4d78-9c21-97c973dde725.png)
